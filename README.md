@@ -1,1 +1,4 @@
-# Fisica_Y_Simulacion_Stephany_Lozano
+# fisica01
+## Materia academica
+
+Recopilacion de trabajos de la materia de fisica y simulacion hechos por Stephany Lozano.
